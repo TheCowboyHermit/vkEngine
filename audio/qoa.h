@@ -2,6 +2,8 @@
 #define __QOA_H__
 
 #include <stdint.h>
+#include <stdio.h>
+#include <stdbool.h>
 
 #define QOA_MAX_CHANNELS 8
 #define QOA_LMS_LEN 4

@@ -1,6 +1,7 @@
 #ifndef _CAMERA_H_
 #define _CAMERA_H_
 
+#include <stdlib.h>
 #include <stdint.h>
 #include <stdbool.h>
 #include "../math/math.h"

@@ -10,3 +10,12 @@
 [submodule "deps/vorbis"]
 	path = deps/vorbis
 	url = https://github.com/xiph/vorbis.git
+[submodule "deps/cgltf"]
+	path = deps/cgltf
+	url = https://github.com/jkuhlmann/cgltf.git
+[submodule "deps/JoltPhysics"]
+	path = deps/JoltPhysics
+	url = https://github.com/jrouwe/JoltPhysics
+[submodule "deps/soloud"]
+	path = deps/soloud
+	url = https://github.com/jarikomppa/soloud.git

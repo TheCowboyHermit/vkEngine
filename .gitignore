@@ -385,3 +385,4 @@ deps/ogg
 deps/OpenXR-SDK
 deps/portaudio
 deps/vorbis
+deps/cgltf

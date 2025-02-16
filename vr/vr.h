@@ -22,6 +22,9 @@
 // undefine __WIN32 for mingw/msys building, otherwise it tries to define bool
 #undef __WIN32
 
+// Making sure to include header for matrix type
+#include "../math/math.h"
+
 typedef struct
 {
 	XrSwapchain swapchain;

@@ -1,6 +1,7 @@
 #ifndef __AUDIO_H__
 #define __AUDIO_H__
 
+#include <stdlib.h>
 #include <stdint.h>
 #include <stdbool.h>
 #include "../math/math.h"
